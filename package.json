@@ -1,0 +1,28 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "first react app",
+  "source":"/src/index.html",
+  "scripts": {
+    "start":"parcel",
+    "build":"parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https//github.com/vi-n-a-y/React.git"
+  },
+  "keywords": [
+    "react",
+    "app",
+    "npm"
+  ],
+  "author": "vi-n-a-y",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  
+  },
+  "browserslist":["last 10 chrome versions", "lst 2 firefox version" ]
+
+
+}
